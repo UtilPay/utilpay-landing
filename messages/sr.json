@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "UtilPay - Jedna aplikacija. Potpuna kontrola.",
+    "description": "Platite sve račune jednim dodirom. Upravljajte nekretninama, pratite troškove i nikad ne propustite rok za plaćanje."
+  },
+  "header": {
+    "logo": "UtilPay",
+    "joinWaitlist": "Pridruži se",
+    "menu": {
+      "features": "Funkcije",
+      "pricing": "Cene",
+      "faq": "Pitanja"
+    }
+  },
+  "hero": {
+    "title": "Jedna aplikacija.",
+    "titleHighlight": "Potpuna kontrola.",
+    "subtitle": "Platite sve račune jednim dodirom. Upravljajte nekretninama, pratite troškove i nikad ne propustite rok za plaćanje.",
+    "before": "Pre",
+    "after": "Sa UtilPay",
+    "timeBefore": "3 sata",
+    "timeAfter": "5 minuta",
+    "perMonth": "mesečno na račune",
+    "emailPlaceholder": "Unesite email",
+    "ctaButton": "Pridruži se listi",
+    "trustIndicators": {
+      "free": "Besplatno za početak",
+      "noCard": "Bez kartice",
+      "launch": "Uskoro Q1 2026"
+    }
+  },
+  "problem": {
+    "sectionTitle": "Problem",
+    "title": "Upravljanje računima je noćna mora",
+    "cards": {
+      "time": {
+        "title": "Gubitak vremena",
+        "stat": "3-4 sata",
+        "description": "Svakog meseca potrošeno na plaćanje računa za više nekretnina"
+      },
+      "chaos": {
+        "title": "Haos sa računima",
+        "stat": "Nema obaveštenja",
+        "description": "Banke ne obaveštavaju. Računi stižu u različitim formatima i vremenima"
+      },
+      "manual": {
+        "title": "Ručni pakao",
+        "stat": "Na desetine",
+        "description": "Papirni računi, više lozinki, ručni unos podataka, greške"
+      }
+    },
+    "testimonial": {
+      "quote": "Provodim celo veče jednom mesečno plaćajući račune za svoje stanove. To je noćna mora!",
+      "author": "Marko",
+      "role": "vlasnik 4 stana"
+    }
+  },
+  "solution": {
+    "sectionTitle": "Rešenje",
+    "title": "Jedna aplikacija. Potpuna kontrola.",
+    "cards": {
+      "providers": {
+        "title": "Izaberite provajdere",
+        "description": "Izaberite sa liste ILI fotografišite bilo koji račun. AI izvlači podatke momentalno."
+      },
+      "payment": {
+        "title": "Jedinstveno plaćanje",
+        "description": "Platite sve račune JEDNIM dodirom u jedinstvenom interfejsu sa grupnim pristupom za porodicu ili posao."
+      },
+      "analytics": {
+        "title": "Analitika",
+        "description": "Analizirajte istoriju plaćanja na kontrolnoj tabli. Kontrolišite troškove za porodicu ili posao."
+      }
+    }
+  },
+  "features": {
+    "sectionTitle": "Funkcije",
+    "title": "Sve što vam treba za upravljanje računima",
+    "items": {
+      "aiScan": {
+        "title": "AI skeniranje računa",
+        "description": "Fotografišite bilo koji račun i naš AI automatski izvlači sve podatke"
+      },
+      "multiProperty": {
+        "title": "Više nekretnina",
+        "description": "Upravljajte neograničenim brojem nekretnina sa jedne kontrolne table"
+      },
+      "analytics": {
+        "title": "Pametna analitika",
+        "description": "Pratite trendove potrošnje i dobijte uvide u vaše troškove komunalija"
+      },
+      "reminders": {
+        "title": "Podsetnici za plaćanje",
+        "description": "Nikad ne propustite rok sa pametnim obaveštenjima"
+      },
+      "groupAccess": {
+        "title": "Grupni pristup",
+        "description": "Podelite pristup sa članovima porodice ili upravnicima nekretnina"
+      },
+      "history": {
+        "title": "Istorija plaćanja",
+        "description": "Kompletna arhiva svih vaših plaćanja i računa"
+      }
+    }
+  },
+  "pricing": {
+    "sectionTitle": "Cene",
+    "title": "Jednostavne, transparentne cene",
+    "processingFee": "+ 1% naknada za obradu plaćanja",
+    "plans": {
+      "free": {
+        "name": "Besplatno",
+        "price": "0",
+        "period": "/mes",
+        "features": [
+          "1 nekretnina",
+          "Pregled računa",
+          "Osnovno praćenje"
+        ],
+        "cta": "Započni"
+      },
+      "premium": {
+        "name": "Premium",
+        "price": "5",
+        "period": "/mes",
+        "popular": true,
+        "features": [
+          "Neograničeno nekretnina",
+          "Za pojedince",
+          "Kompletna analitika",
+          "Prioritetna podrška"
+        ],
+        "cta": "Pridruži se listi"
+      },
+      "business": {
+        "name": "Biznis",
+        "price": "10",
+        "period": "/mes",
+        "features": [
+          "Neograničeno nekretnina",
+          "Za pravna lica",
+          "Napredna analitika",
+          "Posvećena podrška"
+        ],
+        "cta": "Pridruži se listi"
+      }
+    }
+  },
+  "faq": {
+    "sectionTitle": "Pitanja",
+    "title": "Često postavljana pitanja",
+    "items": {
+      "launch": {
+        "question": "Kada će UtilPay biti lansiran?",
+        "answer": "Planiramo lansiranje u Q1 2026. Pridružite se našoj listi čekanja da budete među prvima koji će saznati i dobiti rani pristup."
+      },
+      "providers": {
+        "question": "Koje provajdere komunalija podržavate?",
+        "answer": "Podržavaćemo sve glavne provajdere komunalija u Srbiji pri lansiranju, uključujući EPS, Infostan, Telekom i druge. Kontinuirano dodajemo nove provajdere."
+      },
+      "security": {
+        "question": "Da li su moji podaci o plaćanju bezbedni?",
+        "answer": "Da, koristimo enkripciju bankarskog nivoa i nikad ne čuvamo podatke vaše kartice. Sva plaćanja se obrađuju preko sertifikovanih procesora plaćanja."
+      },
+      "properties": {
+        "question": "Mogu li da upravljam sa više nekretnina?",
+        "answer": "Da! Naši Premium i Business planovi podržavaju neograničen broj nekretnina. Savršeno za stanodavce i upravnike nekretnina."
+      },
+      "free": {
+        "question": "Da li postoji besplatan plan?",
+        "answer": "Da, naš Besplatni plan vam omogućava upravljanje 1 nekretninom sa osnovnim funkcijama. Savršen je za početak."
+      }
+    }
+  },
+  "cta": {
+    "title": "Spremni da pojednostavite svoje račune?",
+    "subtitle": "Pridružite se našoj listi čekanja i budite prvi koji će saznati kada lansiramo.",
+    "emailPlaceholder": "Unesite email",
+    "button": "Dobij rani pristup",
+    "referral": {
+      "title": "Podeli i zaradi",
+      "description": "Vaš referalni kod",
+      "copied": "Kopirano!",
+      "reward": "Dobijte €10 kredita za svakog prijatelja koji se pridruži"
+    }
+  },
+  "footer": {
+    "description": "UtilPay vam pomaže da upravljate svim računima na jednom mestu. Uštedite vreme, izbegnite kašnjenja i ostanite pod kontrolom.",
+    "links": {
+      "product": {
+        "title": "Proizvod",
+        "features": "Funkcije",
+        "pricing": "Cene",
+        "faq": "Pitanja"
+      },
+      "company": {
+        "title": "Kompanija",
+        "about": "O nama",
+        "contact": "Kontakt",
+        "careers": "Karijere"
+      },
+      "legal": {
+        "title": "Pravno",
+        "privacy": "Politika privatnosti",
+        "terms": "Uslovi korišćenja"
+      }
+    },
+    "copyright": "© 2025 UtilPay. Sva prava zadržana."
+  },
+  "waitlist": {
+    "success": {
+      "title": "Na listi ste!",
+      "subtitle": "Hvala što ste se pridružili našoj listi čekanja. Obavestićemo vas čim lansiramo.",
+      "referralTitle": "Podelite sa prijateljima",
+      "referralDescription": "Podelite svoj referalni kod i zaradite €10 kredita za svakog prijatelja koji se pridruži.",
+      "yourCode": "Vaš referalni kod",
+      "copyLink": "Kopiraj link",
+      "backHome": "Nazad na početnu"
+    },
+    "form": {
+      "email": "Email adresa",
+      "userType": "Ja sam...",
+      "userTypes": {
+        "homeowner": "Vlasnik stana",
+        "landlord": "Stanodavac",
+        "propertyManager": "Upravnik nekretnina",
+        "business": "Preduzeće",
+        "other": "Ostalo"
+      },
+      "submit": "Pridruži se listi",
+      "submitting": "Učitavanje...",
+      "errors": {
+        "email": "Unesite validnu email adresu",
+        "duplicate": "Ovaj email je već na listi čekanja",
+        "generic": "Nešto je pošlo naopako. Pokušajte ponovo."
+      }
+    }
+  },
+  "language": {
+    "select": "Jezik",
+    "sr": "Srpski",
+    "en": "English",
+    "hu": "Magyar",
+    "de": "Deutsch",
+    "ru": "Русский"
+  }
+}

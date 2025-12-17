@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "UtilPay - Egy alkalmazás. Teljes kontroll.",
+    "description": "Fizesse ki összes számláját egyetlen érintéssel. Kezeljen több ingatlant, kövesse nyomon a kiadásokat, és soha ne mulasszon el egy fizetést sem."
+  },
+  "header": {
+    "logo": "UtilPay",
+    "joinWaitlist": "Csatlakozás",
+    "menu": {
+      "features": "Funkciók",
+      "pricing": "Árak",
+      "faq": "GYIK"
+    }
+  },
+  "hero": {
+    "title": "Egy alkalmazás.",
+    "titleHighlight": "Teljes kontroll.",
+    "subtitle": "Fizesse ki összes számláját egyetlen érintéssel. Kezeljen több ingatlant, kövesse nyomon a kiadásokat, és soha ne mulasszon el egy fizetést sem.",
+    "before": "Előtte",
+    "after": "UtilPay-jel",
+    "timeBefore": "3 óra",
+    "timeAfter": "5 perc",
+    "perMonth": "havonta a számlákra",
+    "emailPlaceholder": "Adja meg email címét",
+    "ctaButton": "Csatlakozás a listához",
+    "trustIndicators": {
+      "free": "Ingyenes kezdés",
+      "noCard": "Nincs bankkártya",
+      "launch": "Hamarosan Q1 2026"
+    }
+  },
+  "problem": {
+    "sectionTitle": "A Probléma",
+    "title": "A számlakezelés rémálom",
+    "cards": {
+      "time": {
+        "title": "Időpazarlás",
+        "stat": "3-4 óra",
+        "description": "Havonta a számlák fizetésére több ingatlan esetén"
+      },
+      "chaos": {
+        "title": "Számla káosz",
+        "stat": "Nincs értesítés",
+        "description": "A bankok nem értesítenek. A számlák különböző formátumokban és időpontokban érkeznek"
+      },
+      "manual": {
+        "title": "Manuális pokol",
+        "stat": "Tucatnyi",
+        "description": "Papír számlák, több jelszó, kézi adatbevitel, hibák"
+      }
+    },
+    "testimonial": {
+      "quote": "Havonta egy teljes estét töltök a lakásaim számláinak fizetésével. Ez rémálom!",
+      "author": "Marko",
+      "role": "4 lakás tulajdonosa"
+    }
+  },
+  "solution": {
+    "sectionTitle": "A Megoldás",
+    "title": "Egy alkalmazás. Teljes kontroll.",
+    "cards": {
+      "providers": {
+        "title": "Válasszon szolgáltatókat",
+        "description": "Válasszon a listából VAGY fényképezzen le bármilyen számlát. Az AI azonnal kinyeri az adatokat."
+      },
+      "payment": {
+        "title": "Egységes fizetés",
+        "description": "Fizesse ki az összes számlát EGYETLEN érintéssel egységes felületen, csoport hozzáféréssel család vagy vállalkozás számára."
+      },
+      "analytics": {
+        "title": "Elemzések",
+        "description": "Elemezze a fizetési előzményeket az irányítópulton. Kezelje a kiadásokat család vagy vállalkozás számára."
+      }
+    }
+  },
+  "features": {
+    "sectionTitle": "Funkciók",
+    "title": "Minden, amire szüksége van a számlakezeléshez",
+    "items": {
+      "aiScan": {
+        "title": "AI számla szkennelés",
+        "description": "Fényképezzen le bármilyen számlát, és AI-unk automatikusan kinyeri az összes adatot"
+      },
+      "multiProperty": {
+        "title": "Több ingatlan",
+        "description": "Kezeljen korlátlan számú ingatlant egyetlen irányítópultról"
+      },
+      "analytics": {
+        "title": "Intelligens elemzések",
+        "description": "Kövesse nyomon a kiadási trendeket és kapjon betekintést a közműköltségeibe"
+      },
+      "reminders": {
+        "title": "Fizetési emlékeztetők",
+        "description": "Soha ne mulasszon el határidőt az intelligens értesítéseknek köszönhetően"
+      },
+      "groupAccess": {
+        "title": "Csoport hozzáférés",
+        "description": "Ossza meg a hozzáférést családtagokkal vagy ingatlankezelőkkel"
+      },
+      "history": {
+        "title": "Fizetési előzmények",
+        "description": "Összes fizetésének és számlájának teljes archívuma"
+      }
+    }
+  },
+  "pricing": {
+    "sectionTitle": "Árak",
+    "title": "Egyszerű, átlátható árazás",
+    "processingFee": "+ 1% fizetés feldolgozási díj",
+    "plans": {
+      "free": {
+        "name": "Ingyenes",
+        "price": "0",
+        "period": "/hó",
+        "features": [
+          "1 ingatlan",
+          "Számlák megtekintése",
+          "Alapvető követés"
+        ],
+        "cta": "Kezdés"
+      },
+      "premium": {
+        "name": "Prémium",
+        "price": "5",
+        "period": "/hó",
+        "popular": true,
+        "features": [
+          "Korlátlan ingatlan",
+          "Magánszemélyek számára",
+          "Teljes elemzés",
+          "Elsőbbségi támogatás"
+        ],
+        "cta": "Csatlakozás a listához"
+      },
+      "business": {
+        "name": "Üzleti",
+        "price": "10",
+        "period": "/hó",
+        "features": [
+          "Korlátlan ingatlan",
+          "Jogi személyek számára",
+          "Fejlett elemzés",
+          "Dedikált támogatás"
+        ],
+        "cta": "Csatlakozás a listához"
+      }
+    }
+  },
+  "faq": {
+    "sectionTitle": "GYIK",
+    "title": "Gyakran Ismételt Kérdések",
+    "items": {
+      "launch": {
+        "question": "Mikor indul a UtilPay?",
+        "answer": "A tervek szerint Q1 2026-ban indulunk. Csatlakozzon várólistánkhoz, hogy elsők között értesüljön és korai hozzáférést kapjon."
+      },
+      "providers": {
+        "question": "Mely közműszolgáltatókat támogatják?",
+        "answer": "Az induláskor támogatni fogjuk Szerbia összes főbb közműszolgáltatóját, beleértve az EPS-t, Infostant, Telekomot és másokat. Folyamatosan bővítjük a szolgáltatók listáját."
+      },
+      "security": {
+        "question": "Biztonságban vannak a fizetési adataim?",
+        "answer": "Igen, banki szintű titkosítást használunk, és soha nem tároljuk bankkártya adatait. Minden fizetést tanúsított fizetési szolgáltatókon keresztül dolgozunk fel."
+      },
+      "properties": {
+        "question": "Kezelhetek több ingatlant?",
+        "answer": "Igen! Prémium és Üzleti csomagjaink korlátlan számú ingatlant támogatnak. Tökéletes bérbeadók és ingatlankezelők számára."
+      },
+      "free": {
+        "question": "Van ingyenes csomag?",
+        "answer": "Igen, Ingyenes csomagunk lehetővé teszi 1 ingatlan kezelését alapvető funkciókkal. Tökéletes a kezdéshez."
+      }
+    }
+  },
+  "cta": {
+    "title": "Készen áll a számlafizetés egyszerűsítésére?",
+    "subtitle": "Csatlakozzon várólistánkhoz és értesüljön elsőként az indulásról.",
+    "emailPlaceholder": "Adja meg email címét",
+    "button": "Korai hozzáférés",
+    "referral": {
+      "title": "Ossza meg és keressen",
+      "description": "Az Ön ajánló kódja",
+      "copied": "Másolva!",
+      "reward": "Kapjon €10 kreditet minden csatlakozó barátért"
+    }
+  },
+  "footer": {
+    "description": "A UtilPay segít egy helyen kezelni az összes számláját. Takarítson meg időt, kerülje el a késedelmeket és tartsa kézben a kiadásait.",
+    "links": {
+      "product": {
+        "title": "Termék",
+        "features": "Funkciók",
+        "pricing": "Árak",
+        "faq": "GYIK"
+      },
+      "company": {
+        "title": "Cég",
+        "about": "Rólunk",
+        "contact": "Kapcsolat",
+        "careers": "Karrier"
+      },
+      "legal": {
+        "title": "Jogi",
+        "privacy": "Adatvédelmi irányelvek",
+        "terms": "Felhasználási feltételek"
+      }
+    },
+    "copyright": "© 2025 UtilPay. Minden jog fenntartva."
+  },
+  "waitlist": {
+    "success": {
+      "title": "Feliratkozott!",
+      "subtitle": "Köszönjük, hogy csatlakozott várólistánkhoz. Értesítjük, amint elindulunk.",
+      "referralTitle": "Ossza meg barátaival",
+      "referralDescription": "Ossza meg ajánló kódját és keressen €10 kreditet minden csatlakozó barátért.",
+      "yourCode": "Az Ön ajánló kódja",
+      "copyLink": "Link másolása",
+      "backHome": "Vissza a főoldalra"
+    },
+    "form": {
+      "email": "Email cím",
+      "userType": "Én vagyok...",
+      "userTypes": {
+        "homeowner": "Lakástulajdonos",
+        "landlord": "Bérbeadó",
+        "propertyManager": "Ingatlankezelő",
+        "business": "Vállalkozás",
+        "other": "Egyéb"
+      },
+      "submit": "Csatlakozás a listához",
+      "submitting": "Betöltés...",
+      "errors": {
+        "email": "Adjon meg érvényes email címet",
+        "duplicate": "Ez az email már szerepel a várólistán",
+        "generic": "Valami hiba történt. Próbálja újra."
+      }
+    }
+  },
+  "language": {
+    "select": "Nyelv",
+    "sr": "Srpski",
+    "en": "English",
+    "hu": "Magyar",
+    "de": "Deutsch",
+    "ru": "Русский"
+  }
+}

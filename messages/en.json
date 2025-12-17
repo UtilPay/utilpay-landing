@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "UtilPay - One App. Full Control.",
+    "description": "Pay all your utility bills with one tap. Manage multiple properties, track expenses, and never miss a payment."
+  },
+  "header": {
+    "logo": "UtilPay",
+    "joinWaitlist": "Join Waitlist",
+    "menu": {
+      "features": "Features",
+      "pricing": "Pricing",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "title": "One App.",
+    "titleHighlight": "Full Control.",
+    "subtitle": "Pay all your utility bills with one tap. Manage multiple properties, track expenses, and never miss a payment.",
+    "before": "Before",
+    "after": "With UtilPay",
+    "timeBefore": "3 hours",
+    "timeAfter": "5 minutes",
+    "perMonth": "per month on bills",
+    "emailPlaceholder": "Enter your email",
+    "ctaButton": "Join Waitlist",
+    "trustIndicators": {
+      "free": "Free to start",
+      "noCard": "No credit card",
+      "launch": "Coming Q1 2026"
+    }
+  },
+  "problem": {
+    "sectionTitle": "The Problem",
+    "title": "Managing utility bills is a nightmare",
+    "cards": {
+      "time": {
+        "title": "Time Loss",
+        "stat": "3-4 hours",
+        "description": "Every month spent paying bills for multiple properties"
+      },
+      "chaos": {
+        "title": "Bill Chaos",
+        "stat": "No alerts",
+        "description": "Banks don't notify you. Bills arrive in different formats and times"
+      },
+      "manual": {
+        "title": "Manual Hell",
+        "stat": "Dozens",
+        "description": "Paper bills, multiple passwords, manual data entry, errors"
+      }
+    },
+    "testimonial": {
+      "quote": "I spend an entire evening once a month paying bills for my apartments. It's a nightmare!",
+      "author": "Marko",
+      "role": "owner of 4 apartments"
+    }
+  },
+  "solution": {
+    "sectionTitle": "The Solution",
+    "title": "One App. Full Control.",
+    "cards": {
+      "providers": {
+        "title": "Choose providers",
+        "description": "Select from list OR photograph any bill. AI extracts data instantly."
+      },
+      "payment": {
+        "title": "Unified payment",
+        "description": "Pay all bills with ONE tap in unified interface with group access for family or business."
+      },
+      "analytics": {
+        "title": "Analytics",
+        "description": "Analyze payment history in dashboard. Control expenses for family or business."
+      }
+    }
+  },
+  "features": {
+    "sectionTitle": "Features",
+    "title": "Everything you need to manage bills",
+    "items": {
+      "aiScan": {
+        "title": "AI Bill Scanning",
+        "description": "Photograph any bill and our AI extracts all data automatically"
+      },
+      "multiProperty": {
+        "title": "Multi-Property",
+        "description": "Manage unlimited properties from one dashboard"
+      },
+      "analytics": {
+        "title": "Smart Analytics",
+        "description": "Track spending trends and get insights on your utility costs"
+      },
+      "reminders": {
+        "title": "Payment Reminders",
+        "description": "Never miss a due date with smart notifications"
+      },
+      "groupAccess": {
+        "title": "Group Access",
+        "description": "Share access with family members or property managers"
+      },
+      "history": {
+        "title": "Payment History",
+        "description": "Complete archive of all your payments and bills"
+      }
+    }
+  },
+  "pricing": {
+    "sectionTitle": "Pricing",
+    "title": "Simple, transparent pricing",
+    "processingFee": "+ 1% payment processing fee",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "0",
+        "period": "/mo",
+        "features": [
+          "1 property",
+          "View bills",
+          "Basic tracking"
+        ],
+        "cta": "Get Started"
+      },
+      "premium": {
+        "name": "Premium",
+        "price": "5",
+        "period": "/mo",
+        "popular": true,
+        "features": [
+          "Unlimited properties",
+          "For individuals",
+          "Full analytics",
+          "Priority support"
+        ],
+        "cta": "Join Waitlist"
+      },
+      "business": {
+        "name": "Business",
+        "price": "10",
+        "period": "/mo",
+        "features": [
+          "Unlimited properties",
+          "For legal entities",
+          "Advanced analytics",
+          "Dedicated support"
+        ],
+        "cta": "Join Waitlist"
+      }
+    }
+  },
+  "faq": {
+    "sectionTitle": "FAQ",
+    "title": "Frequently asked questions",
+    "items": {
+      "launch": {
+        "question": "When will UtilPay launch?",
+        "answer": "We're planning to launch in Q1 2026. Join our waitlist to be among the first to know and get early access."
+      },
+      "providers": {
+        "question": "Which utility providers do you support?",
+        "answer": "We'll support all major utility providers in Serbia at launch, including EPS, Infostan, Telekom, and more. We're continuously adding new providers."
+      },
+      "security": {
+        "question": "Is my payment information secure?",
+        "answer": "Yes, we use bank-level encryption and never store your card details. All payments are processed through certified payment processors."
+      },
+      "properties": {
+        "question": "Can I manage multiple properties?",
+        "answer": "Yes! Our Premium and Business plans support unlimited properties. Perfect for landlords and property managers."
+      },
+      "free": {
+        "question": "Is there a free plan?",
+        "answer": "Yes, our Free plan lets you manage 1 property with basic features. It's perfect for getting started."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to simplify your utility bills?",
+    "subtitle": "Join our waitlist and be the first to know when we launch.",
+    "emailPlaceholder": "Enter your email",
+    "button": "Get Early Access",
+    "referral": {
+      "title": "Share & Earn",
+      "description": "Your referral code",
+      "copied": "Copied!",
+      "reward": "Get €10 credit for each friend who joins"
+    }
+  },
+  "footer": {
+    "description": "UtilPay helps you manage all your utility bills in one place. Save time, avoid late fees, and stay in control.",
+    "links": {
+      "product": {
+        "title": "Product",
+        "features": "Features",
+        "pricing": "Pricing",
+        "faq": "FAQ"
+      },
+      "company": {
+        "title": "Company",
+        "about": "About",
+        "contact": "Contact",
+        "careers": "Careers"
+      },
+      "legal": {
+        "title": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+      }
+    },
+    "copyright": "© 2025 UtilPay. All rights reserved."
+  },
+  "waitlist": {
+    "success": {
+      "title": "You're on the list!",
+      "subtitle": "Thank you for joining our waitlist. We'll notify you as soon as we launch.",
+      "referralTitle": "Share with friends",
+      "referralDescription": "Share your referral code and earn €10 credit for each friend who joins.",
+      "yourCode": "Your referral code",
+      "copyLink": "Copy Link",
+      "backHome": "Back to Home"
+    },
+    "form": {
+      "email": "Email address",
+      "userType": "I am a...",
+      "userTypes": {
+        "homeowner": "Homeowner",
+        "landlord": "Landlord",
+        "propertyManager": "Property Manager",
+        "business": "Business",
+        "other": "Other"
+      },
+      "submit": "Join Waitlist",
+      "submitting": "Joining...",
+      "errors": {
+        "email": "Please enter a valid email address",
+        "duplicate": "This email is already on the waitlist",
+        "generic": "Something went wrong. Please try again."
+      }
+    }
+  },
+  "language": {
+    "select": "Language",
+    "sr": "Serbian",
+    "en": "English",
+    "hu": "Hungarian",
+    "de": "German",
+    "ru": "Russian"
+  }
+}

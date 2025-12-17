@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "title": "UtilPay - Eine App. Volle Kontrolle.",
+    "description": "Bezahlen Sie alle Ihre Rechnungen mit einem Fingertipp. Verwalten Sie mehrere Immobilien, verfolgen Sie Ausgaben und verpassen Sie nie eine Zahlung."
+  },
+  "header": {
+    "logo": "UtilPay",
+    "joinWaitlist": "Anmelden",
+    "menu": {
+      "features": "Funktionen",
+      "pricing": "Preise",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "title": "Eine App.",
+    "titleHighlight": "Volle Kontrolle.",
+    "subtitle": "Bezahlen Sie alle Ihre Rechnungen mit einem Fingertipp. Verwalten Sie mehrere Immobilien, verfolgen Sie Ausgaben und verpassen Sie nie eine Zahlung.",
+    "before": "Vorher",
+    "after": "Mit UtilPay",
+    "timeBefore": "3 Stunden",
+    "timeAfter": "5 Minuten",
+    "perMonth": "pro Monat für Rechnungen",
+    "emailPlaceholder": "E-Mail eingeben",
+    "ctaButton": "Warteliste beitreten",
+    "trustIndicators": {
+      "free": "Kostenlos starten",
+      "noCard": "Keine Kreditkarte",
+      "launch": "Bald Q1 2026"
+    }
+  },
+  "problem": {
+    "sectionTitle": "Das Problem",
+    "title": "Rechnungsverwaltung ist ein Albtraum",
+    "cards": {
+      "time": {
+        "title": "Zeitverlust",
+        "stat": "3-4 Stunden",
+        "description": "Jeden Monat für Rechnungszahlungen bei mehreren Immobilien"
+      },
+      "chaos": {
+        "title": "Rechnungschaos",
+        "stat": "Keine Benachrichtigungen",
+        "description": "Banken benachrichtigen nicht. Rechnungen kommen in verschiedenen Formaten und zu verschiedenen Zeiten"
+      },
+      "manual": {
+        "title": "Manuelle Hölle",
+        "stat": "Dutzende",
+        "description": "Papierrechnungen, mehrere Passwörter, manuelle Dateneingabe, Fehler"
+      }
+    },
+    "testimonial": {
+      "quote": "Ich verbringe jeden Monat einen ganzen Abend damit, Rechnungen für meine Wohnungen zu bezahlen. Das ist ein Albtraum!",
+      "author": "Marko",
+      "role": "Besitzer von 4 Wohnungen"
+    }
+  },
+  "solution": {
+    "sectionTitle": "Die Lösung",
+    "title": "Eine App. Volle Kontrolle.",
+    "cards": {
+      "providers": {
+        "title": "Anbieter wählen",
+        "description": "Wählen Sie aus der Liste ODER fotografieren Sie eine beliebige Rechnung. KI extrahiert Daten sofort."
+      },
+      "payment": {
+        "title": "Einheitliche Zahlung",
+        "description": "Bezahlen Sie alle Rechnungen mit EINEM Fingertipp in einer einheitlichen Oberfläche mit Gruppenzugang für Familie oder Unternehmen."
+      },
+      "analytics": {
+        "title": "Analytik",
+        "description": "Analysieren Sie die Zahlungshistorie im Dashboard. Kontrollieren Sie Ausgaben für Familie oder Unternehmen."
+      }
+    }
+  },
+  "features": {
+    "sectionTitle": "Funktionen",
+    "title": "Alles was Sie für die Rechnungsverwaltung brauchen",
+    "items": {
+      "aiScan": {
+        "title": "KI-Rechnungsscan",
+        "description": "Fotografieren Sie eine beliebige Rechnung und unsere KI extrahiert automatisch alle Daten"
+      },
+      "multiProperty": {
+        "title": "Mehrere Immobilien",
+        "description": "Verwalten Sie unbegrenzt viele Immobilien von einem Dashboard aus"
+      },
+      "analytics": {
+        "title": "Intelligente Analytik",
+        "description": "Verfolgen Sie Ausgabentrends und erhalten Sie Einblicke in Ihre Nebenkosten"
+      },
+      "reminders": {
+        "title": "Zahlungserinnerungen",
+        "description": "Verpassen Sie nie ein Fälligkeitsdatum dank intelligenter Benachrichtigungen"
+      },
+      "groupAccess": {
+        "title": "Gruppenzugang",
+        "description": "Teilen Sie den Zugang mit Familienmitgliedern oder Immobilienverwaltern"
+      },
+      "history": {
+        "title": "Zahlungshistorie",
+        "description": "Vollständiges Archiv aller Ihrer Zahlungen und Rechnungen"
+      }
+    }
+  },
+  "pricing": {
+    "sectionTitle": "Preise",
+    "title": "Einfache, transparente Preise",
+    "processingFee": "+ 1% Zahlungsbearbeitungsgebühr",
+    "plans": {
+      "free": {
+        "name": "Kostenlos",
+        "price": "0",
+        "period": "/Mo",
+        "features": [
+          "1 Immobilie",
+          "Rechnungen ansehen",
+          "Basis-Tracking"
+        ],
+        "cta": "Loslegen"
+      },
+      "premium": {
+        "name": "Premium",
+        "price": "5",
+        "period": "/Mo",
+        "popular": true,
+        "features": [
+          "Unbegrenzte Immobilien",
+          "Für Privatpersonen",
+          "Volle Analytik",
+          "Prioritäts-Support"
+        ],
+        "cta": "Warteliste beitreten"
+      },
+      "business": {
+        "name": "Business",
+        "price": "10",
+        "period": "/Mo",
+        "features": [
+          "Unbegrenzte Immobilien",
+          "Für Unternehmen",
+          "Erweiterte Analytik",
+          "Dedizierter Support"
+        ],
+        "cta": "Warteliste beitreten"
+      }
+    }
+  },
+  "faq": {
+    "sectionTitle": "FAQ",
+    "title": "Häufig gestellte Fragen",
+    "items": {
+      "launch": {
+        "question": "Wann startet UtilPay?",
+        "answer": "Wir planen den Start für Q1 2026. Treten Sie unserer Warteliste bei, um zu den Ersten zu gehören und frühen Zugang zu erhalten."
+      },
+      "providers": {
+        "question": "Welche Versorgungsunternehmen unterstützen Sie?",
+        "answer": "Zum Start werden wir alle wichtigen Versorgungsunternehmen in Serbien unterstützen, darunter EPS, Infostan, Telekom und mehr. Wir fügen kontinuierlich neue Anbieter hinzu."
+      },
+      "security": {
+        "question": "Sind meine Zahlungsdaten sicher?",
+        "answer": "Ja, wir verwenden Verschlüsselung auf Bankniveau und speichern niemals Ihre Kartendaten. Alle Zahlungen werden über zertifizierte Zahlungsabwickler verarbeitet."
+      },
+      "properties": {
+        "question": "Kann ich mehrere Immobilien verwalten?",
+        "answer": "Ja! Unsere Premium- und Business-Pläne unterstützen unbegrenzt viele Immobilien. Perfekt für Vermieter und Immobilienverwalter."
+      },
+      "free": {
+        "question": "Gibt es einen kostenlosen Plan?",
+        "answer": "Ja, unser kostenloser Plan ermöglicht die Verwaltung von 1 Immobilie mit Grundfunktionen. Perfekt für den Einstieg."
+      }
+    }
+  },
+  "cta": {
+    "title": "Bereit, Ihre Rechnungen zu vereinfachen?",
+    "subtitle": "Treten Sie unserer Warteliste bei und erfahren Sie als Erste vom Start.",
+    "emailPlaceholder": "E-Mail eingeben",
+    "button": "Frühen Zugang erhalten",
+    "referral": {
+      "title": "Teilen & verdienen",
+      "description": "Ihr Empfehlungscode",
+      "copied": "Kopiert!",
+      "reward": "Erhalten Sie €10 Guthaben für jeden Freund, der beitritt"
+    }
+  },
+  "footer": {
+    "description": "UtilPay hilft Ihnen, alle Rechnungen an einem Ort zu verwalten. Sparen Sie Zeit, vermeiden Sie Verspätungen und behalten Sie die Kontrolle.",
+    "links": {
+      "product": {
+        "title": "Produkt",
+        "features": "Funktionen",
+        "pricing": "Preise",
+        "faq": "FAQ"
+      },
+      "company": {
+        "title": "Unternehmen",
+        "about": "Über uns",
+        "contact": "Kontakt",
+        "careers": "Karriere"
+      },
+      "legal": {
+        "title": "Rechtliches",
+        "privacy": "Datenschutz",
+        "terms": "Nutzungsbedingungen"
+      }
+    },
+    "copyright": "© 2025 UtilPay. Alle Rechte vorbehalten."
+  },
+  "waitlist": {
+    "success": {
+      "title": "Sie sind auf der Liste!",
+      "subtitle": "Vielen Dank für Ihre Anmeldung auf unserer Warteliste. Wir benachrichtigen Sie, sobald wir starten.",
+      "referralTitle": "Mit Freunden teilen",
+      "referralDescription": "Teilen Sie Ihren Empfehlungscode und verdienen Sie €10 Guthaben für jeden Freund.",
+      "yourCode": "Ihr Empfehlungscode",
+      "copyLink": "Link kopieren",
+      "backHome": "Zurück zur Startseite"
+    },
+    "form": {
+      "email": "E-Mail-Adresse",
+      "userType": "Ich bin...",
+      "userTypes": {
+        "homeowner": "Wohnungseigentümer",
+        "landlord": "Vermieter",
+        "propertyManager": "Immobilienverwalter",
+        "business": "Unternehmen",
+        "other": "Sonstiges"
+      },
+      "submit": "Warteliste beitreten",
+      "submitting": "Wird geladen...",
+      "errors": {
+        "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+        "duplicate": "Diese E-Mail ist bereits auf der Warteliste",
+        "generic": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+      }
+    }
+  },
+  "language": {
+    "select": "Sprache",
+    "sr": "Srpski",
+    "en": "English",
+    "hu": "Magyar",
+    "de": "Deutsch",
+    "ru": "Русский"
+  }
+}

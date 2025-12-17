@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Host
+Host: https://utilpay.app
+
+# Sitemaps
+Sitemap: https://utilpay.app/sitemap.xml
